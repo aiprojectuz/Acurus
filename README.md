@@ -31,7 +31,7 @@ We got inspired by the article describing the Markov chain Monte Carlo data asso
 ```
 git clone https://github.com/AIHunters/AcurusTrack.git
 cd AcurusTrack
-python3 run.py
+bash run.sh
 -
 sudo apt-get install python-virtualenv
 virtualenv venv --system-site-packages
